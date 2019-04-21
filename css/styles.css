@@ -1,0 +1,44 @@
+.test-box {
+    border-left: 10px solid blue;
+    border-right: 10px solid blue;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid blue;
+    margin:20px ;
+    padding:6px;
+    background-color: lightcyan;
+    font-family: Arial;
+
+  }
+  .form{
+       display: block;
+    text-align: center;
+
+  }
+  button {
+    background-color: darkcyan;
+    padding: 8px 16px 8px 16px;
+    border-radius: 8px;
+    border: none;
+    font-size: 24px;
+    color: white;
+  }
+  #touch{
+      text-align: center
+      
+  }
+  h2{
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+  .sidebar {
+    width: 30%;
+    float: right;
+    background-color: darkcyan;
+    text-decoration-color:white;
+  }
+  .column {
+    width: 350px;
+    float: left;
+  }
+  
