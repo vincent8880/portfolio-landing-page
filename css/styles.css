@@ -34,11 +34,12 @@
   .sidebar {
     width: 30%;
     float: right;
-    background-color: darkcyan;
+    background-color: rgb(139, 0, 0);
     text-decoration-color:white;
   }
   .column {
-    width: 350px;
+    width: 250px;
     float: left;
+    margin: 2px;
   }
   
